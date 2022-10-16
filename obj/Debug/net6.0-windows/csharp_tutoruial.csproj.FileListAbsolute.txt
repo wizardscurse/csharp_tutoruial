@@ -1,0 +1,17 @@
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\bin\Debug\net6.0-windows\csharp_tutoruial.exe
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\bin\Debug\net6.0-windows\csharp_tutoruial.deps.json
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\bin\Debug\net6.0-windows\csharp_tutoruial.runtimeconfig.json
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\bin\Debug\net6.0-windows\csharp_tutoruial.dll
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\bin\Debug\net6.0-windows\csharp_tutoruial.pdb
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.csproj.AssemblyReference.cache
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.Form1.resources
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.csproj.GenerateResource.cache
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.AssemblyInfoInputs.cache
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.AssemblyInfo.cs
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.csproj.CoreCompileInputs.cache
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.dll
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\refint\csharp_tutoruial.dll
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.pdb
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\csharp_tutoruial.genruntimeconfig.cache
+C:\Users\rojwi\OneDrive\Desktop\Guy\csharp_tutoruial\obj\Debug\net6.0-windows\ref\csharp_tutoruial.dll
